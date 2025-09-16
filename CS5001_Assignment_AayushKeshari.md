@@ -13,7 +13,7 @@
 - Dr. William Hawkins  
 
 **Meeting Schedule:**  
-As a single-member team, I will hold structured weekly check-ins with myself (using a written log and GitHub issues) every Sunday evening to track progress, review milestones, and prepare updates for my advisor. Additionally, I will meet with my faculty advisor at least twice this semester, or more frequently as required, to ensure alignment on project scope and deliverables.  
+As a single-member team, I will hold structured weekly check-ins with myself (using a written log and GitHub issues) every Monday to track progress, review milestones, and prepare updates for my advisor. Additionally, I will meet with my faculty advisor at least thrice this semester, or more frequently as required, to ensure alignment on project scope and deliverables.  
 
 **Project Focus:**  
 The project will focus on developing a **cross-platform hydration tracking mobile application** that calculates personalized water goals, supports multi-beverage logging with hydration efficiency factors, integrates with Apple HealthKit and Google Fit, and provides adaptive reminders to encourage consistent hydration.  
