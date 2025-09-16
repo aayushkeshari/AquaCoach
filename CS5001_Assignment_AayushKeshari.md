@@ -1,6 +1,6 @@
 # CS5001 Assignment – Team Contract and Individual Capstone Assessment
 
-## Part 1: Team Contract Draft
+## Contract Draft
 
 **Team Contract Draft – Senior Design Project (Fall 2025)**  
 
@@ -26,7 +26,7 @@ By submitting this draft, I affirm my understanding of the responsibilities and 
 
 ---
 
-## Part 2: Individual Capstone Assessment
+## Individual Capstone Assessment
 
 **Introduction**  
 My senior design project focuses on developing a cross-platform mobile application that helps individuals maintain healthy hydration habits through personalized daily water goals, beverage logging, and adaptive reminders. The app will leverage integration with Apple HealthKit and Google Fit to collect activity and health data, while emphasizing a privacy-first design that ensures users maintain full control over their personal information. From my academic perspective, this project is both a culmination of my computer science education and an opportunity to demonstrate applied software engineering, data science, and mobile development skills in building a functional product with real-world impact.  
