@@ -16,7 +16,7 @@
 As a single-member team, I will hold structured weekly check-ins with myself (using a written log and GitHub issues) every Monday to track progress, review milestones, and prepare updates for my advisor. Additionally, I will meet with my faculty advisor at least thrice this semester, or more frequently as required, to ensure alignment on project scope and deliverables.  
 
 **Project Focus:**  
-The project will focus on developing a **cross-platform hydration tracking mobile application** that calculates personalized water goals, supports multi-beverage logging with hydration efficiency factors, integrates with Apple HealthKit and Google Fit, and provides adaptive reminders to encourage consistent hydration.  
+The project will focus on developing a **cross-platform hydration tracking mobile application** that calculates personalized water goals, supports multi-beverage logging with hydration efficiency factors, integrates with Apple HealthKit, and provides adaptive reminders to encourage consistent hydration.  
 
 **Roles and Responsibilities:**  
 Since I am the sole team member, I will be responsible for all aspects of the project, including requirements analysis, system design, database modeling, mobile app development, API integration, testing, documentation, and presentations. Task prioritization and time management will be handled through GitHub project boards to simulate collaborative workflows and maintain transparency.  
