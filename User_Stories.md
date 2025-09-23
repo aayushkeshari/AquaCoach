@@ -1,6 +1,6 @@
 # AquaCoach: The Ultimate Hydration Tracking App
 # User Stories
-# ----------------------------------------------
+
 
 **Team Member:**  
 - Name: Aayush Keshari  
