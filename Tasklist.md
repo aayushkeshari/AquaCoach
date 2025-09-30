@@ -12,12 +12,12 @@
 4. **Develop** the beverage intake logging module, including validation and hydration efficiency factors.  
 5. **Implement** the user profile manager (age, weight, activity, quiet hours, preferences).  
 6. **Build** the goal calculator that combines demographic, environmental, and activity data.  
-7. **Integrate** external data sources (e.g., weather API, Google Fit, Apple HealthKit).  
+7. **Integrate** external data sources (e.g., weather API, Apple HealthKit).  
 8. **Develop** the reminder engine with adaptive scheduling and snooze logic.  
 9. **Implement** the local data storage system (SQLite) with support for event history and streaks.  
 10. **Create** optional cloud synchronization with encrypted backup support.  
 11. **Develop** progress visualization features (charts, streak indicators, daily summaries).  
-12. **Integrate** OS-level notifications for hydration reminders across Android and iOS.  
+12. **Integrate** OS-level notifications for hydration reminders across iOS. and watchOS.  
 13. **Build** the insights and trends module to analyze history and detect anomalies.  
 14. **Implement** export and sharing functionality with user-controlled permissions.  
 15. **Test** each subsystem independently through unit testing.  
