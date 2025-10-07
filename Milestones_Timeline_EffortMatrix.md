@@ -13,7 +13,7 @@
 |-------|---------------------|------------------|-----------------|
 | 1 | **Requirements & Architecture Finalized** | Oct 10 2025 | Completion of requirements and high-level design diagrams (D0–D2). |
 | 2 | **UI/UX Prototype Completed** | Nov 15 2025 | Interactive wireframes and front-end prototype demonstrating app flow. |
-| 3 | **Core System Modules Implemented** | Feb 10 2026 | Development of key modules — Intake Manager, Goal Calculator, Reminder Engine, Data Storage. |
+| 3 | **Core System Modules Implemented** | Feb 10 2026 | Development of key modules such as Intake Manager, Goal Calculator, Reminder Engine, Data Storage. |
 | 4 | **External Integrations Functional** | Mar 1 2026 | Successful integration of Weather API and Apple HealthKit. |
 | 5 | **Testing & Optimization Phase** | Apr 5 2026 | Full testing cycle: unit, integration, and performance optimization. |
 | 6 | **Final Documentation & CEAS Expo Presentation** | Apr 20 2026 | Delivery of documentation, poster, and working demo for Expo showcase. |
@@ -79,8 +79,8 @@
 ---
 
 ## Notes
-- Tasks 1 – 6 and Milestones M1 – M2 correspond to **Fall 2025 (CS5001)** — research, design, and prototype.  
-- Tasks 7 – 21 and Milestones M3 – M6 correspond to **Spring 2026 (CS5002)** — full implementation, testing, and presentation.  
+- Tasks 1 - 6 and Milestones M1 - M2 correspond to **Fall 2025 (CS5001)** — research, design, and prototype.  
+- Tasks 7 - 21 and Milestones M3 - M6 correspond to **Spring 2026 (CS5002)** — full implementation, testing, and presentation.  
 - All tasks are performed by Aayush Keshari as the sole developer.  
-- The timeline aligns with UC’s academic calendar (Sept 2025 – Apr 2026).  
+- The timeline aligns with the academic calendar (September 2025 - April 2026)
 - Deliverables are mapped directly to design diagrams D0–D2 and core subsystems.  
