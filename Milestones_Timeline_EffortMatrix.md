@@ -79,8 +79,8 @@
 ---
 
 ## Notes
-- Tasks 1 - 6 and Milestones M1 - M2 correspond to **Fall 2025 (CS5001)** — research, design, and prototype.  
-- Tasks 7 - 21 and Milestones M3 - M6 correspond to **Spring 2026 (CS5002)** — full implementation, testing, and presentation.  
+- Tasks 1 - 6 and Milestones M1 - M2 correspond to **Fall 2025 (CS5001)**: research, design, and prototype.  
+- Tasks 7 - 21 and Milestones M3 - M6 correspond to **Spring 2026 (CS5002)**: full implementation, testing, and presentation.  
 - All tasks are performed by Aayush Keshari as the sole developer.  
 - The timeline aligns with the academic calendar (September 2025 - April 2026)
 - Deliverables are mapped directly to design diagrams D0–D2 and core subsystems.  
