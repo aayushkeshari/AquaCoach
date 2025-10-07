@@ -1,9 +1,7 @@
 # Milestones, Timeline, and Effort Matrix
 
-**Project Title:** Hydration Tracking App  
+**Project Title:** AquaCoach: The ultimate Hydration Tracking App  
 **Team Member:** Aayush Keshari (solo developer)  
-**Course Sequence:** CS5001 (Fall 2025) and CS5002 (Spring 2026)  
-**Instructor:** Prof. Yu Zhao  
 
 ---
 
