@@ -1,4 +1,4 @@
-# AquaCoach
+# AquaCoach; Your Ultimate Hydration Companion
 
 ## 📘 User Documentation
 
