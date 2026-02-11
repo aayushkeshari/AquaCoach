@@ -1,6 +1,6 @@
 # AquaCoach User Guide
 
-Welcome to **AquaCoach**, your personalized hydration tracking assistant.  
+Welcome to **AquaCoach**, your personalized hydration tracking assistant!  
 This guide explains how to install, set up, and use the app to maintain healthy hydration habits.
 
 ---
@@ -81,7 +81,7 @@ Charts help you identify patterns and stay motivated.
 
 ---
 
-## 🔄 7. HealthKit Integration
+## 🍎 🔄 7. HealthKit Integration
 
 If enabled:
 - Hydration data syncs with Apple Health.
