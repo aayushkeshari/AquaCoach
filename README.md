@@ -1,5 +1,10 @@
 # AquaCoach
 
+[![iOS](https://img.shields.io/badge/iOS-17.0%2B-blue?logo=apple&logoColor=white)](https://developer.apple.com/ios/)
+[![Swift](https://img.shields.io/badge/Swift-5.9%2B-F05138?logo=swift&logoColor=white)](https://swift.org)
+[![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-007AFF?logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Architecture](https://img.shields.io/badge/Architecture-MVVM-4B32C3)](#technical-stack--architecture)
+
 **A native iOS hydration tracker that measures the effective hydration contribution of different beverages.**
 
 AquaCoach is a SwiftUI capstone project designed to make daily hydration tracking more realistic than a water-only counter. Users can log beverages, apply beverage-specific hydration ratios, monitor daily progress, and review seven-day trends from a single offline-first iOS app.
