@@ -4,6 +4,7 @@
 [![Swift](https://img.shields.io/badge/Swift-5.9%2B-F05138?logo=swift&logoColor=white)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-007AFF?logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
 [![Architecture](https://img.shields.io/badge/Architecture-MVVM-4B32C3)](#technical-stack--architecture)
+[![HealthKit](https://img.shields.io/badge/Apple_Health-HealthKit-FA2D48?logo=apple&logoColor=white)](https://developer.apple.com/documentation/healthkit)
 
 **A native iOS hydration tracker that measures the effective hydration contribution of different beverages.**
 
